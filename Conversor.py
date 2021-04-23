@@ -2,7 +2,7 @@ menu= """
 Bienvenido al conversor de monedas
 
 Para mi es un placer tenerte en mi primera aplicacion de Python
-proximamente tambien tendremos aplicaciones en swift
+proximamente tambien tendremos aplicaciones en java
 
 1-Pesos Colombianos
 2-Pesos Argentinos 
