@@ -4,7 +4,7 @@ Bienvenido al conversor de monedas
 Para mi es un placer tenerte en mi primera aplicacion de Python
 proximamente tambien tendremos aplicaciones en swift
 
-1-Pesos Bogotanos
+1-Pesos Colombianos
 2-Pesos Argentinos 
 3-Pesos Mexicanos
 4-Euro
