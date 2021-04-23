@@ -1,7 +1,10 @@
 menu= """
 Bienvenido al conversor de monedas
 
-1-Pesos Colombianos
+Para mi es un placer tenerte en mi primera aplicacion de Python
+proximamente tambien tendremos aplicaciones en swift
+
+1-Pesos Bogotanos
 2-Pesos Argentinos 
 3-Pesos Mexicanos
 
