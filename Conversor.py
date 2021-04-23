@@ -8,7 +8,7 @@ proximamente tambien tendremos aplicaciones en C+
 2-Pesos Argentinos 
 3-Pesos Mexicanos
 4-Euro
-5-Yen
+5-Moneda Japonesa
 
 Elige una opcion:
 """
