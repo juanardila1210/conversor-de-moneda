@@ -4,6 +4,8 @@ Bienvenido al conversor de monedas
 1-Pesos Colombianos
 2-Pesos Argentinos 
 3-Pesos Mexicanos
+4-Euro
+5-Yen
 
 Elige una opcion:
 """
@@ -18,5 +20,9 @@ elif opcion ==2:
     operacion(65)
 elif opcion ==3:
     operacion(24)
+elif opcion==4:
+    operacion(0.83)
+elif opcion==5:
+    operacion(108)
 else:
-    print("Ingrese una opcion de moneda correcta")    
+    print("Ingrese una opcion de moneda correcta")
