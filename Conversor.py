@@ -1,6 +1,8 @@
 menu= """
 Bienvenido al conversor de monedas hecho por mi
 
+Para realizar este proyecto, necesité de un colaborador llamado Sebastian Lopez
+
 Para mi es un placer tenerte en mi primera aplicacion de Python
 proximamente tambien tendremos aplicaciones en C+
 
