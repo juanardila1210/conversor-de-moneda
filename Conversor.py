@@ -1,5 +1,5 @@
 menu= """
-Bienvenido al conversor de monedas
+Bienvenido al conversor de monedas hecho por mi
 
 Para mi es un placer tenerte en mi primera aplicacion de Python
 proximamente tambien tendremos aplicaciones en C+
