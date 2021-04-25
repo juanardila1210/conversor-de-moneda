@@ -10,6 +10,8 @@ proximamente tambien tendremos aplicaciones en C+
 4-Euro
 5-Moneda Japonesa
 
+Yo soy sebastián lopez, el segundo al mando de este curso
+
 Elige una opcion:
 """
 def operacion(x):
