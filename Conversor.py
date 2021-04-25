@@ -6,6 +6,8 @@ Para realizar este proyecto, necesité de un colaborador llamado Sebastian Lopez
 Para mi es un placer tenerte en mi primera aplicacion de Python
 proximamente tambien tendremos aplicaciones en C+
 
+Este statement lo esta haciendo Juan Ardila, que es el creador principal de este codigo 
+
 1-Pesos Colombianos
 2-Pesos Argentinos 
 3-Pesos Mexicanos
