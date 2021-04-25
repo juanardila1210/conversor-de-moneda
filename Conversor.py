@@ -14,6 +14,8 @@ Este statement lo esta haciendo Juan Ardila, que es el creador principal de este
 4-Euro
 5-Moneda Japonesa
 
+Yo soy sebastián lopez, el segundo al mando de este curso
+
 Elige una opcion:
 """
 def operacion(x):
