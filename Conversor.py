@@ -13,6 +13,8 @@ Este statement lo esta haciendo Juan Ardila, que es el creador principal de este
 3-Pesos Mexicanos
 4-Euro
 5-Moneda Japonesa
+6-Peso Peruano 
+7-Libra exterlina 
 
 Yo soy sebastián lopez, el segundo al mando de este curso
 
@@ -33,5 +35,9 @@ elif opcion==4:
     operacion(0.83)
 elif opcion==5:
     operacion(108)
+elif opcion==6:
+    operacion(4)
+elif opcion==7:
+    operacion(0.8)
 else:
     print("Ingrese una opción de moneda correcta")
