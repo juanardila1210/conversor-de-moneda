@@ -8,7 +8,7 @@ proximamente tambien tendremos aplicaciones en C++
 
 Este statement lo esta haciendo Juan Ardila, que es el creador principal de este codigo 
 
-1-Pesos Colombianos
+1-Pesos Colombianos :)
 2-Pesos Argentinos 
 3-Pesos Mexicanos
 4-Euro
