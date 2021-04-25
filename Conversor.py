@@ -4,7 +4,7 @@ Bienvenido al conversor de monedas hecho por mi
 Para realizar este proyecto, necesité de un colaborador llamado Sebastian Lopez, que es muy inteligente, y de mi hermano Juan Jose
 
 Para mi es un placer tenerte en mi primera aplicacion de Python
-proximamente tambien tendremos aplicaciones en C+
+proximamente tambien tendremos aplicaciones en C++
 
 Este statement lo esta haciendo Juan Ardila, que es el creador principal de este codigo 
 
@@ -34,4 +34,4 @@ elif opcion==4:
 elif opcion==5:
     operacion(108)
 else:
-    print("Ingrese una opcion de moneda correcta")
+    print("Ingrese una opción de moneda correcta")
