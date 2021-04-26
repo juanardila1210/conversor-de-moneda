@@ -6,3 +6,4 @@ Bienvenidos a mi primer proyecto, es un conversor de moneda desarrollado en pyth
 En un futuro pienso ser data scientist y no solo eso, sino ser el mejor!!!
 
 * Creado por juan ardila 
+* Ha sido dificil, pero hemos puesto todo de nosotros para lograrlo 
