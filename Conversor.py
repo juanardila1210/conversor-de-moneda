@@ -16,7 +16,7 @@ Este statement lo esta haciendo Juan Ardila, que es el creador principal de este
 6-Sol Peruano 
 7-Libra esterlina 
 8-Rupias
-9-Dolar canadiense
+9-Dolar canadiense :)
 
 Yo soy sebastián lopez, el segundo al mando de este curso
 
