@@ -19,7 +19,9 @@ Este statement lo esta haciendo Juan Ardila, que es el creador principal de este
 
 Yo soy sebastián lopez, el segundo al mando de este curso
 
-Master 1
+Master 1 
+
+Master 2
 
 Elige una opcion:
 """
