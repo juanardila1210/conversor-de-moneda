@@ -8,6 +8,7 @@ proximamente tambien tendremos aplicaciones en C++
 
 Este statement lo esta haciendo Juan Ardila, que es el creador principal de este codigo 
 
+0-Bad bunny 
 1-Pesos Colombianos :)
 2-Pesos Argentinos 
 3-Pesos Mexicanos
@@ -16,6 +17,7 @@ Este statement lo esta haciendo Juan Ardila, que es el creador principal de este
 6-Sol Peruano 
 7-Libra esterlina 
 8-Rupias
+9-
 
 Yo soy sebastián lopez, el segundo al mando de este curso
 
